@@ -38,13 +38,13 @@ Use 'dconf help COMMAND' to get detailed help.
 
 | help |
 | --- |
-| [help](help-help) |
-| [read](help-read) |
-| [list](help-list) |
-| [write](help-write) |
-| [reset](help-reset) |
-| [compile](help-compile) |
-| [update](help-update) |
-| [watch](help-watch) |
-| [dump](help-dump) |
-| [load](help-load) |
+| [help](help-help.md) |
+| [read](help-read.md) |
+| [list](help-list.md) |
+| [write](help-write.md) |
+| [reset](help-reset.md) |
+| [compile](help-compile.md) |
+| [update](help-update.md) |
+| [watch](help-watch.md) |
+| [dump](help-dump.md) |
+| [load](help-load.md) |
