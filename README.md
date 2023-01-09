@@ -17,5 +17,4 @@
 ## samwhelp
 
 * [個人筆記](https://samwhelp.github.io/book/)
-* [System Modeling](https://samwhelp.github.io/system-modeling/) / ([GitHub](https://github.com/samwhelp/system-modeling))
-* [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/)
+* [gsettings 探索筆記](https://samwhelp.github.io/note-about-gsettings/) ([GitHub](https://github.com/samwhelp/note-about-gsettings))
