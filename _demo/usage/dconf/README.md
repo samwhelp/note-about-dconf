@@ -1,4 +1,5 @@
 
+
 # dconf
 
 ## Manpage
@@ -10,3 +11,11 @@
 ## Help
 
 * dconf [help](help)
+
+
+## Demo
+
+| Demo |
+| --- |
+| [compile](compile) |
+| [update](update) |
