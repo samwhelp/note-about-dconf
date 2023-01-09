@@ -9,6 +9,9 @@ grand_parent: 關鍵點
 
 # dconf read 取值查找順序 / demo-001
 
+
+## Profile
+
 * /etc/dconf/profile/user
 
 ``` conf
