@@ -24,8 +24,8 @@ system-db:distro
 | --- | --- | --- |
 | service-db:keyfile/user | ~/.config/dconf/user.txt | 設定值 |
 | user-db:user | ~/.config/dconf/user | 預設值 1 |
-| system-db:local | /etc/dconf/db/site | 預設值 2 |
-| system-db:site | /etc/dconf/db/distro | 預設值 3 |
+| system-db:local | /etc/dconf/db/local | 預設值 2 |
+| system-db:site | /etc/dconf/db/site | 預設值 3 |
 | system-db:distro | /etc/dconf/db/distro | 預設值 4 |
 
 

@@ -22,8 +22,8 @@ system-db:distro
 | Proile Line | 儲存檔案路徑 | 取值查找順序 |
 | --- | --- | --- |
 | user-db:user | ~/.config/dconf/user | 設定值 |
-| system-db:local | /etc/dconf/db/site | 預設值 1 |
-| system-db:site | /etc/dconf/db/distro | 預設值 2 |
+| system-db:local | /etc/dconf/db/local | 預設值 1 |
+| system-db:site | /etc/dconf/db/site | 預設值 2 |
 | system-db:distro | /etc/dconf/db/distro | 預設值 3 |
 
 
