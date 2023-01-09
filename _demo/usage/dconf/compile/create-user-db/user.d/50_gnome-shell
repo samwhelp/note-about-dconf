@@ -1,0 +1,10 @@
+[org/gnome/desktop/background]
+picture-uri='file:///usr/share/backgrounds/default.jpg'
+picture-options='scaled'
+primary-color='000000'
+secondary-color='FFFFFF'
+
+
+[org/gnome/desktop/interface]
+gtk-theme='Gruvbox'
+icon-theme='Gruvbox-Dark'
