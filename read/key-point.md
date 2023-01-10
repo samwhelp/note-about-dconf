@@ -12,7 +12,7 @@ has_children: true
 
 | 主題 |
 | --- |
-| [dconf read 取值查找順序](https://samwhelp.github.io/note-about-dconf/read/key-point/value-find-order.html) |
+| [dconf read 「取值」查找順序](https://samwhelp.github.io/note-about-dconf/read/key-point/value-find-order.html) |
 
 
 

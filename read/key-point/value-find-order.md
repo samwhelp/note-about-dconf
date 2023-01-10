@@ -1,12 +1,12 @@
 ---
-title: dconf read 取值查找順序
+title: dconf read 「取值」查找順序
 nav_order: 2010
 has_children: true
 parent: 關鍵點
 ---
 
 
-# dconf read 取值查找順序
+# dconf read 「取值」查找順序
 
 
 ## 範例

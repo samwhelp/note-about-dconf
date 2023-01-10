@@ -1,8 +1,8 @@
 ---
-title: dconf read 取值查找順序 / demo-001
+title: dconf read 「取值」查找順序 / demo-001
 nav_order: 2011
 has_children: false
-parent: dconf read 取值查找順序
+parent: dconf read 「取值」查找順序
 grand_parent: 關鍵點
 ---
 
