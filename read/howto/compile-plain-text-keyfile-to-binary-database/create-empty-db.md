@@ -71,4 +71,4 @@ demo: GVariant Database file, version 0
 
 ## 接下來
 
-> 接下來，我們要來了解『[如何將「Plain Text Keyfile」編譯成「Binary Database」](https://samwhelp.github.io/note-about-dconf/read/howto/compile-plain-text-keyfile-to-binary-database/create-empty-db.html)』
+> 接下來，我們要來了解『[如何將「Plain Text Keyfile」編譯成「Binary Database」](https://samwhelp.github.io/note-about-dconf/read/howto/compile-plain-text-keyfile-to-binary-database/create-empty-db.html)』。
