@@ -12,14 +12,14 @@ has_children: true
 
 ## 主題
 
-* [dcnof / compile](#dcnof--compile)
+* [dconf / compile](#dconf--compile)
 
 
 
 
-## dcnof / compile
+## dconf / compile
 
-| dcnof / compile |
+| dconf / compile |
 | --------------- |
-| [dcnof / 如何產生「空的 Binary Database」](https://samwhelp.github.io/note-about-dconf/read/howto/compile-plain-text-keyfile-to-binary-database/create-empty-db.html) |
-| [dcnof / 如何將「Plain Text Keyfile」編譯成「Binary Database」](https://samwhelp.github.io/note-about-dconf/read/howto/compile-plain-text-keyfile-to-binary-database/create-demo-db.html) |
+| [dconf / 如何產生「空的 Binary Database」](https://samwhelp.github.io/note-about-dconf/read/howto/compile-plain-text-keyfile-to-binary-database/create-empty-db.html) |
+| [dconf / 如何將「Plain Text Keyfile」編譯成「Binary Database」](https://samwhelp.github.io/note-about-dconf/read/howto/compile-plain-text-keyfile-to-binary-database/create-demo-db.html) |

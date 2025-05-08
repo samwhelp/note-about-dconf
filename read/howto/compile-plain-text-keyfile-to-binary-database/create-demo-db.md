@@ -1,5 +1,5 @@
 ---
-title: dcnof / 如何將「Plain Text Keyfile」編譯成「Binary Database」
+title: dconf / 如何將「Plain Text Keyfile」編譯成「Binary Database」
 nav_order: 7020
 has_children: false
 parent: 如何將「Plain Text Keyfile」編譯成「Binary Database」
@@ -7,7 +7,7 @@ grand_parent: 如何
 ---
 
 
-# dcnof / 如何產生「空的 Binary Database」
+# dconf / 如何產生「空的 Binary Database」
 
 
 
@@ -122,5 +122,5 @@ GVariant(	... item-001value-001spath/002//item-002value-001sitem-001value-001ssu
 
 ## Manpage
 
-* [man 1 dcnof](https://manpages.debian.org/stable/dconf-cli/dconf.1.en.html)
+* [man 1 dconf](https://manpages.debian.org/stable/dconf-cli/dconf.1.en.html)
 * [man 1 grep](https://manpages.debian.org/stable/grep/grep.1.en.html)

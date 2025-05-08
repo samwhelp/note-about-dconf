@@ -22,3 +22,5 @@ parent: 如何
 
 | 範例 |
 | ---- |
+| [dconf / 如何將「所有的設定」「匯出」和「匯入」](https://samwhelp.github.io/note-about-dconf/read/howto/create-system-db/create-system-db-single.html) |
+| [dconf / 如何將「子項的設定」「匯出」和「匯入」](https://samwhelp.github.io/note-about-dconf/read/howto/create-system-db/create-system-db-multiple.html) |
