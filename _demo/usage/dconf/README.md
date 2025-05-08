@@ -17,5 +17,6 @@
 
 | Demo |
 | --- |
+| [dump-and-load](dump-and-load) |
 | [compile](compile) |
 | [update](update) |
