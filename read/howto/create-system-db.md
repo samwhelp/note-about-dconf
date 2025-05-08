@@ -13,7 +13,15 @@ parent: 如何
 
 ## 主題
 
+* [相關概念](#相關概念)
 * [範例](#範例)
+
+
+
+
+## 相關概念
+
+* [關於「dconf profile」](https://samwhelp.github.io/note-about-dconf/read/concept/dconf-profile.html)
 
 
 
