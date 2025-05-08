@@ -1,12 +1,12 @@
 ---
-title: 如何將「plain-text-keyfile」編譯成「binary-database」
+title: 如何將「Plain Text Keyfile」編譯成「Binary Database」
 nav_order: 7010
 has_children: true
 parent: 如何
 ---
 
 
-# 如何將「plain-text-keyfile」編譯成「binary-database」
+# 如何將「Plain Text Keyfile」編譯成「Binary Database」
 
 
 
@@ -19,3 +19,7 @@ parent: 如何
 
 
 ## 範例
+
+| 範例 |
+| ---- |
+| [如何產生「空的 Binary Database」](compile-plain-text-keyfile-to-binary-database/create-empty-db)
