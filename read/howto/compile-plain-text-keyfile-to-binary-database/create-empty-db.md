@@ -1,5 +1,5 @@
 ---
-title: 如何產生「空的 Binary Database」
+title: dcnof / 如何產生「空的 Binary Database」
 nav_order: 7010
 has_children: false
 parent: 如何將「Plain Text Keyfile」編譯成「Binary Database」
@@ -7,7 +7,7 @@ grand_parent: 如何
 ---
 
 
-# 如何產生「空的 Binary Database」
+# dcnof / 如何產生「空的 Binary Database」
 
 
 

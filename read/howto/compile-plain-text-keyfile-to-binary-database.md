@@ -22,4 +22,5 @@ parent: 如何
 
 | 範例 |
 | ---- |
-| [如何產生「空的 Binary Database」](compile-plain-text-keyfile-to-binary-database/create-empty-db)
+| [dcnof / 如何產生「空的 Binary Database」](https://samwhelp.github.io/note-about-dconf/read/howto/compile-plain-text-keyfile-to-binary-database/create-empty-db.html) |
+| [dcnof / 如何將「Plain Text Keyfile」編譯成「Binary Database」](https://samwhelp.github.io/note-about-dconf/read/howto/compile-plain-text-keyfile-to-binary-database/create-demo-db.html) |
