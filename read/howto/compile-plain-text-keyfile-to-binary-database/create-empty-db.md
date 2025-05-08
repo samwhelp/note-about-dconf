@@ -26,7 +26,7 @@ grand_parent: 如何
 
 | 範例 |
 | ---- |
-| [create-empty-db](https://github.com/samwhelp/note-about-dconf/blob/gh-pages/_demo/usage/dconf/compile/create-empty-db/db-create.sh) |
+| [create-empty-db](https://github.com/samwhelp/note-about-dconf/blob/gh-pages/_demo/usage/dconf/compile/create-empty-db) |
 
 
 

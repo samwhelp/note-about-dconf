@@ -26,8 +26,8 @@ grand_parent: 如何
 
 | 範例 |
 | ---- |
-| [create-demo-db](https://github.com/samwhelp/note-about-dconf/blob/gh-pages/_demo/usage/dconf/compile/create-demo-db/db-create.sh) |
-| [create-user-db](https://github.com/samwhelp/note-about-dconf/blob/gh-pages/_demo/usage/dconf/compile/create-user-db/db-create.sh) |
+| [create-demo-db](https://github.com/samwhelp/note-about-dconf/blob/gh-pages/_demo/usage/dconf/compile/create-demo-db) |
+| [create-user-db](https://github.com/samwhelp/note-about-dconf/blob/gh-pages/_demo/usage/dconf/compile/create-user-db) |
 
 
 
