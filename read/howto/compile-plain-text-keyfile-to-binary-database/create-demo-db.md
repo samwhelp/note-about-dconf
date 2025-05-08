@@ -1,6 +1,6 @@
 ---
 title: dcnof / 如何將「Plain Text Keyfile」編譯成「Binary Database」
-nav_order: 7010
+nav_order: 7020
 has_children: false
 parent: 如何將「Plain Text Keyfile」編譯成「Binary Database」
 grand_parent: 如何
