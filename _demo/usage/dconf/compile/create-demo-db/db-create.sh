@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 
-dconf compile demo-db demo-db.d
+dconf compile demo demo.d

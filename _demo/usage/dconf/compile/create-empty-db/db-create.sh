@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
 
-mkdir -p demo-db.d
+mkdir -p demo.d
 
-dconf compile demo-db demo-db.d
+dconf compile demo demo.d
