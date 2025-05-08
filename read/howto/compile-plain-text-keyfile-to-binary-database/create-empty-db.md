@@ -17,6 +17,7 @@ grand_parent: 如何
 * [範例](#範例)
 * [操作步驟](#操作步驟)
 * [Manpage](#manpage)
+* [接下來](#接下來)
 
 
 
@@ -64,3 +65,10 @@ demo: GVariant Database file, version 0
 ## Manpage
 
 * [man 1 dcnof](https://manpages.debian.org/bookworm/dconf-cli/dconf.1.en.html)
+
+
+
+
+## 接下來
+
+> 接下來，我們要來了解『如何將「Plain Text Keyfile」編譯成「Binary Database」』

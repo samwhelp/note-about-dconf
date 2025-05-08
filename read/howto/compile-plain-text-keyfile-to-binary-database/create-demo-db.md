@@ -34,7 +34,7 @@ grand_parent: 如何
 
 ## 前提
 
-延續前一篇提到的『[如何產生「空的 Binary Database」](https://samwhelp.github.io/note-about-dconf/read/howto/compile-plain-text-keyfile-to-binary-database/create-empty-db.html)』，接下來，我們要來了解『如何將「Plain Text Keyfile」編譯成「Binary Database」』
+> 延續前一篇提到的『[如何產生「空的 Binary Database」](https://samwhelp.github.io/note-about-dconf/read/howto/compile-plain-text-keyfile-to-binary-database/create-empty-db.html)』，接下來，我們要來了解『如何將「Plain Text Keyfile」編譯成「Binary Database」』
 
 
 
