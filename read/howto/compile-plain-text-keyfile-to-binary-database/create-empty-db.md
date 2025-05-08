@@ -64,7 +64,8 @@ demo: GVariant Database file, version 0
 
 ## Manpage
 
-* [man 1 dcnof](https://manpages.debian.org/bookworm/dconf-cli/dconf.1.en.html)
+* [man 1 dcnof](https://manpages.debian.org/stable/dconf-cli/dconf.1.en.html)
+* [man 7 dconf](https://manpages.debian.org/stable/dconf-cli/dconf.7.en.html)
 
 
 
